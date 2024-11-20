@@ -1,0 +1,17 @@
+CustomerID, FirstName, LastName, CustomerAddress, EmailAddress, BookID, Title, Author, DatePublished, QuantityAvailable, OrderID, DatePurchased, AmountPaid, Quantity, OrderStatus, ShippingAddress
+C001,Peter,Smith,123 Main St,psmith@yahoo.com,SN1001,The Great Gatsby,Scott Fitzgerald,4/10/1925,10,OR100001,1/5/2023,24.99,1,Shipped,7 Marlin Cresent
+C002,Prince,Johnson,456 Elm St,prince.johnson@gmail.com,SN1002,Things fall apart,Chinua Achebe,7/11/1960,5,OR100002,2/18/2023,19.99,2,Delivered,4 Belmont drive
+C003,Robert,Williams,789 Oak Ave,williamsr@gmail.com,SN1003,Oliver twist,Charles Dickens,6/8/1949,15,OR100003,3/10/2023,12.99,1,Pending,78 Nelson Avenue
+C004,David,Brown,234 Pine St,davidsbrown@gmail.com,SN1004,Pride and Prejudice,Jane Austen,1813-01-28,8,OR100004,4/22/2023,39.99,3,Shipped,9 Andrier drive
+C005,Jennifer,Davis,,davidsj@gmail.com,SN1005,The Catcher in the Rye,Jerome David Salinger,7/16/1951,0,OR100005,5/7/2023,24.99,1,Delivered,67 Maple Rd
+C006,Sarah,Davids,567 Maple Rd,Not Provided,SN1006,To Kill a Mockingbird,Harper Lee,7/11/1960,3,OR100006,6/13/2023,19.99,2,Shipped,90 Oak drive
+C007,Mark,Miller,890 Oak Ave,miller_mark@yahoo.com,SN1007,Harry Potter and the Philosopher's Stone,Joanne Rowling,1/1/1900,20,OR100007,7/28/2023,12.99,1,Delivered,89 Cambridge drive
+C008,Jessica,Anderson,123 Main St,jessica@yahoo,SN1008,The Lord of the Rings,John Ronald Reuel Tolkien,7/29/1954,12,OR100008,8/19/2023,39.99,3,Pending,03 Andrews st
+C009,Michael,Wilson,432 Elm St,wilsonmich@pic.uk,SN1009,Romeo and Juliet,William Shakespeare,1597-01-01,5,OR100009,9/2/2023,24.99,1,Shipped,23 Oaukridge square
+C010,Emily,Taylor,789 Oak Ave,taylor@abc.edu,SN1010,The Hobbit,John Ronald Reuel Tolkien,9/21/1937,7,OR100010,10/14/2023,19.99,2,Delivered,17 Pineland St
+C011,Samantha,Nicholas,567 Maple Rd,samanthan@gmail.com,SN1011,Coming of the Dry Season,Charles Mungoshi,7/16/1981,10,OR100011,4/5/2023,12.99,1,Shipped,8 Unki drive
+C012,Daniel,Walker,890 Oak Ave,walker_daniel@gmail.com,SN1012,The Lion and the Jewel,Wole Soyinka,6/26/1962,2,OR100012,5/17/2023,39.99,3,Delivered,17 Beijing drive
+C013,Rebecca,Green,,greenr@yahoo.com,SN1013,Pride and Prejudice,Jane Austen,1813-01-28,4,OR100013,6/30/2023,24.99,1,Pending,56 Lagos square
+C014,Nicholas,Turner,234 Pine St,nicholast@wvy.ac.na,SN1014,The Grapes of Wrath,John Steinbeck,7/29/1939,0,OR100014,7/25/2023,19.99,2,Shipped,Corner Jill and Jik
+C015,Olivia,Clark,432 Elm St,Not Provided,SN1015,Introduction to Data Mining,Pang-Ning Tan,6/28/2011,6,OR100015,8/8/2023,12.99,1,Delivered,795 Oliver st
+C016,Roland,Stephens,789 Oak Ave,roland@gmail.com,SN1016,Brave New World,Aldous Huxley,4/10/1932,8,OR100016,9/19/2023,39,1,Pending,789 Oak Ave
